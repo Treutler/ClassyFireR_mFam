@@ -5,8 +5,8 @@
 
 Install in R console as follows.
 ```
-library.packages("stringr")
-library.packages("stringi")
+install.packages("stringr")
+install.packages("stringi")
 ```
 
 ## Run the script

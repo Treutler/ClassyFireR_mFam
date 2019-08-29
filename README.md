@@ -12,7 +12,7 @@ install.packages("stringi")
 ## Run the script
 
 ```
-source("/mnt/ifs/data/IPB/Projects/2017_005_MS-databases/mFam contributions/mFam Aggregation/ClassyFireR_mFam/ClassyFireRequests.R")
+"/mnt/ifs/data/IPB/Projects/2017_005_MS-databases/mFam_code/ClassyFireR_mFam/ClassyFireRequests.R"
 
 ## files and folders
 parentFolder <- "/home/htreutle/Downloads/MetSWATH/MONA/ClassyFire"
